@@ -11,3 +11,4 @@ learning about git rebase, git merge, resolving conflicts
 
 ## Contextual intentions
 - [git rebase]](./git-rebase.md)
+>>>>>>> added another project
