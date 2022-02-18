@@ -11,3 +11,5 @@ learning about git rebase, git merge, resolving conflicts
 
 ## Contextual intentions
 - [git rebase]](./git-rebase.md)
+
+added some text, testing git setup
